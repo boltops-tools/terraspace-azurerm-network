@@ -1,0 +1,6 @@
+---
+network:
+  source: Azure/network/azurerm
+  type: registry
+  url: https://github.com/Azure/terraform-azurerm-network
+  sha: 77d30e259775d5fefc9adfcb523e0668de651fe4
